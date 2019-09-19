@@ -1,2 +1,3 @@
 # friendlyhello
-just another repository
+HI ALL
+FISHER HERE
