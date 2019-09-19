@@ -1,0 +1,2 @@
+# friendlyhello
+just another repository
